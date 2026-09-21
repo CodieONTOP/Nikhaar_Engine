@@ -1,0 +1,22 @@
+import pandas as pd
+import numpy as np
+
+np.random.seed(42)
+n_records = 250
+
+# Generate messy synthetic sales data
+raw_data = {
+    "Transaction_ID": [f"TXN-{1000 + i}" for i in range(n_records)],
+    "Customer_Name": np.random.choice([" john doe ", "JANE SMITH", "Alice Johnson", "bob brown", None, "  charlie green "], size=n_records),
+    "Region": np.random.choice([" North ", "south", "East", "WEST", "north", None], size=n_records),
+    "Sales_Amount": np.random.choice([150.5, 200.0, np.nan, 450.75, 1200.0, -50.0, 89.99], size=n_records),
+    "Purchase_Date": np.random.choice(["2026-01-15", "02/20/2026", "2026/03/10", None, "2026-04-01"], size=n_records)
+}
+
+df_messy = pd.DataFrame(raw_data)
+
+# Intentionally append duplicate rows
+df_messy = pd.concat([df_messy, df_messy.iloc[:25]], ignore_index=True)
+
+df_messy.to_csv("messy_sales_data.csv", index=False)
+print("Messy dataset 'messy_sales_data.csv' successfully created!")

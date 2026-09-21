@@ -1,0 +1,276 @@
+Transaction_ID,Customer_Name,Region,Sales_Amount,Purchase_Date
+TXN-1000,bob brown,WEST,150.5,2026-01-15
+TXN-1001,,East,-50.0,2026-04-01
+TXN-1002,Alice Johnson,WEST,-50.0,2026/03/10
+TXN-1003,,East,1200.0,2026-01-15
+TXN-1004,,south,89.99,2026/03/10
+TXN-1005,JANE SMITH,East,200.0,
+TXN-1006,Alice Johnson,East,200.0,02/20/2026
+TXN-1007,Alice Johnson,WEST,-50.0,
+TXN-1008,Alice Johnson,WEST,1200.0,
+TXN-1009,, North ,450.75,2026-04-01
+TXN-1010,bob brown, North ,200.0,02/20/2026
+TXN-1011,Alice Johnson,south,450.75,
+TXN-1012,  charlie green , North ,89.99,
+TXN-1013,,East,200.0,02/20/2026
+TXN-1014,JANE SMITH,WEST,200.0,02/20/2026
+TXN-1015,bob brown, North ,,
+TXN-1016,  charlie green , North ,200.0,02/20/2026
+TXN-1017,  charlie green ,south,150.5,
+TXN-1018,JANE SMITH,,1200.0,
+TXN-1019,bob brown,south,1200.0,2026-04-01
+TXN-1020,,East,450.75,2026-01-15
+TXN-1021, john doe ,WEST,89.99,
+TXN-1022,bob brown,south,200.0,2026/03/10
+TXN-1023,JANE SMITH, North ,150.5,2026-01-15
+TXN-1024,  charlie green ,WEST,450.75,2026-01-15
+TXN-1025,,WEST,,2026-01-15
+TXN-1026,bob brown, North ,450.75,2026-04-01
+TXN-1027, john doe ,south,450.75,
+TXN-1028, john doe , North ,200.0,2026-04-01
+TXN-1029,Alice Johnson,,,
+TXN-1030,Alice Johnson,WEST,450.75,2026-04-01
+TXN-1031,JANE SMITH,north,150.5,2026-04-01
+TXN-1032,bob brown,north,150.5,2026/03/10
+TXN-1033,bob brown,East,1200.0,2026-04-01
+TXN-1034,  charlie green , North ,,02/20/2026
+TXN-1035,  charlie green , North ,,2026/03/10
+TXN-1036,  charlie green ,East,1200.0,2026-04-01
+TXN-1037,Alice Johnson,East,450.75,2026-01-15
+TXN-1038,bob brown,East,,02/20/2026
+TXN-1039,bob brown,WEST,150.5,02/20/2026
+TXN-1040, john doe ,,150.5,02/20/2026
+TXN-1041,Alice Johnson, North ,200.0,2026/03/10
+TXN-1042,,WEST,,2026-04-01
+TXN-1043,Alice Johnson,East,450.75,2026-04-01
+TXN-1044,, North ,1200.0,2026-01-15
+TXN-1045, john doe ,WEST,1200.0,2026-01-15
+TXN-1046,JANE SMITH,,450.75,02/20/2026
+TXN-1047,bob brown,WEST,89.99,2026-01-15
+TXN-1048, john doe ,,-50.0,2026/03/10
+TXN-1049,bob brown,East,200.0,2026-04-01
+TXN-1050,  charlie green ,,1200.0,02/20/2026
+TXN-1051,JANE SMITH, North ,,2026-01-15
+TXN-1052,JANE SMITH,East,200.0,2026/03/10
+TXN-1053, john doe , North ,,2026/03/10
+TXN-1054,JANE SMITH,north,89.99,2026-01-15
+TXN-1055,,south,150.5,2026-04-01
+TXN-1056,JANE SMITH,,200.0,2026-01-15
+TXN-1057,bob brown,south,1200.0,02/20/2026
+TXN-1058,bob brown,south,200.0,2026-01-15
+TXN-1059,bob brown,,200.0,2026/03/10
+TXN-1060,bob brown,East,200.0,2026-01-15
+TXN-1061,,north,-50.0,2026-04-01
+TXN-1062,Alice Johnson, North ,200.0,
+TXN-1063,  charlie green ,WEST,,2026-01-15
+TXN-1064, john doe , North ,150.5,2026-04-01
+TXN-1065,bob brown,WEST,89.99,2026-04-01
+TXN-1066,JANE SMITH, North ,450.75,2026/03/10
+TXN-1067,bob brown,,200.0,2026-04-01
+TXN-1068,JANE SMITH,north,1200.0,2026-04-01
+TXN-1069,  charlie green ,WEST,200.0,2026-04-01
+TXN-1070,  charlie green ,East,1200.0,2026-04-01
+TXN-1071,  charlie green , North ,,02/20/2026
+TXN-1072,JANE SMITH, North ,1200.0,02/20/2026
+TXN-1073,bob brown,WEST,450.75,2026/03/10
+TXN-1074,  charlie green ,East,150.5,2026-01-15
+TXN-1075,,East,1200.0,2026-04-01
+TXN-1076,JANE SMITH,,1200.0,2026-01-15
+TXN-1077,JANE SMITH,,150.5,2026-01-15
+TXN-1078,bob brown,,450.75,2026/03/10
+TXN-1079,JANE SMITH,,200.0,2026-04-01
+TXN-1080,JANE SMITH,,1200.0,2026-04-01
+TXN-1081,  charlie green ,,150.5,
+TXN-1082,bob brown,north,,2026-01-15
+TXN-1083,  charlie green ,East,150.5,2026-01-15
+TXN-1084,  charlie green ,,,02/20/2026
+TXN-1085,bob brown,East,450.75,
+TXN-1086, john doe ,East,200.0,02/20/2026
+TXN-1087,  charlie green ,south,150.5,02/20/2026
+TXN-1088,,north,89.99,02/20/2026
+TXN-1089,,,89.99,2026/03/10
+TXN-1090,JANE SMITH, North ,-50.0,2026/03/10
+TXN-1091,,WEST,1200.0,02/20/2026
+TXN-1092,JANE SMITH, North ,450.75,
+TXN-1093, john doe ,north,150.5,2026-01-15
+TXN-1094,bob brown,WEST,89.99,
+TXN-1095,bob brown,north,1200.0,2026-04-01
+TXN-1096,bob brown,East,89.99,2026/03/10
+TXN-1097,,WEST,150.5,2026-01-15
+TXN-1098, john doe ,East,,2026-01-15
+TXN-1099,, North ,150.5,2026-04-01
+TXN-1100,, North ,-50.0,2026-04-01
+TXN-1101, john doe ,WEST,150.5,02/20/2026
+TXN-1102, john doe ,WEST,150.5,2026/03/10
+TXN-1103, john doe ,,-50.0,2026/03/10
+TXN-1104, john doe ,north,450.75,
+TXN-1105,bob brown,,150.5,02/20/2026
+TXN-1106,Alice Johnson,north,-50.0,02/20/2026
+TXN-1107,Alice Johnson,,1200.0,02/20/2026
+TXN-1108, john doe ,East,,02/20/2026
+TXN-1109,Alice Johnson,WEST,,2026/03/10
+TXN-1110,Alice Johnson, North ,150.5,2026/03/10
+TXN-1111, john doe ,north,450.75,02/20/2026
+TXN-1112,Alice Johnson,north,450.75,
+TXN-1113,, North ,1200.0,2026-01-15
+TXN-1114,JANE SMITH,,150.5,2026-01-15
+TXN-1115,JANE SMITH,north,,
+TXN-1116, john doe ,East,450.75,02/20/2026
+TXN-1117,bob brown,WEST,150.5,2026/03/10
+TXN-1118, john doe , North ,89.99,2026-01-15
+TXN-1119,bob brown,WEST,450.75,2026-04-01
+TXN-1120,JANE SMITH,north,-50.0,2026-04-01
+TXN-1121, john doe ,north,89.99,
+TXN-1122,  charlie green , North ,450.75,02/20/2026
+TXN-1123,,East,,2026-01-15
+TXN-1124,Alice Johnson,south,200.0,02/20/2026
+TXN-1125,bob brown, North ,89.99,2026-01-15
+TXN-1126,  charlie green ,south,1200.0,
+TXN-1127,Alice Johnson,,1200.0,
+TXN-1128,Alice Johnson,south,,2026-04-01
+TXN-1129, john doe ,East,450.75,02/20/2026
+TXN-1130,Alice Johnson,,150.5,2026-04-01
+TXN-1131,,south,450.75,02/20/2026
+TXN-1132,  charlie green ,,,2026-04-01
+TXN-1133,Alice Johnson,south,1200.0,2026/03/10
+TXN-1134, john doe ,East,450.75,2026/03/10
+TXN-1135,,south,1200.0,2026/03/10
+TXN-1136,JANE SMITH,south,89.99,2026/03/10
+TXN-1137,  charlie green ,south,150.5,2026-01-15
+TXN-1138,Alice Johnson, North ,89.99,2026/03/10
+TXN-1139, john doe , North ,1200.0,
+TXN-1140,JANE SMITH, North ,1200.0,
+TXN-1141,JANE SMITH,East,200.0,2026-01-15
+TXN-1142,bob brown,,200.0,2026/03/10
+TXN-1143,,north,89.99,2026/03/10
+TXN-1144,Alice Johnson,south,-50.0,2026/03/10
+TXN-1145, john doe ,south,89.99,2026-04-01
+TXN-1146,bob brown,East,200.0,02/20/2026
+TXN-1147,,south,1200.0,2026-04-01
+TXN-1148,bob brown, North ,,02/20/2026
+TXN-1149,  charlie green ,north,89.99,2026/03/10
+TXN-1150,,WEST,1200.0,2026/03/10
+TXN-1151,,south,,2026-04-01
+TXN-1152,Alice Johnson, North ,,2026-04-01
+TXN-1153,,WEST,200.0,02/20/2026
+TXN-1154,bob brown,north,89.99,
+TXN-1155,,WEST,450.75,02/20/2026
+TXN-1156,Alice Johnson, North ,150.5,2026-04-01
+TXN-1157,Alice Johnson,,200.0,2026-04-01
+TXN-1158,  charlie green ,,200.0,2026-01-15
+TXN-1159,bob brown,WEST,450.75,2026-04-01
+TXN-1160,JANE SMITH,East,150.5,2026-01-15
+TXN-1161,JANE SMITH,WEST,1200.0,
+TXN-1162,,south,-50.0,02/20/2026
+TXN-1163,  charlie green ,south,89.99,02/20/2026
+TXN-1164, john doe ,,-50.0,2026-01-15
+TXN-1165,,East,1200.0,02/20/2026
+TXN-1166,  charlie green , North ,200.0,2026-04-01
+TXN-1167,bob brown,south,150.5,2026/03/10
+TXN-1168,bob brown,,200.0,2026-01-15
+TXN-1169,bob brown,north,,02/20/2026
+TXN-1170,bob brown,,200.0,2026-01-15
+TXN-1171,bob brown,south,200.0,2026-01-15
+TXN-1172,  charlie green ,south,1200.0,2026/03/10
+TXN-1173,  charlie green ,,1200.0,2026-04-01
+TXN-1174,Alice Johnson, North ,1200.0,2026-01-15
+TXN-1175,JANE SMITH,WEST,-50.0,02/20/2026
+TXN-1176,bob brown,south,,
+TXN-1177, john doe ,,1200.0,2026-01-15
+TXN-1178,  charlie green ,,150.5,2026-01-15
+TXN-1179, john doe ,East,-50.0,2026/03/10
+TXN-1180, john doe ,WEST,450.75,2026-04-01
+TXN-1181, john doe ,north,150.5,
+TXN-1182,Alice Johnson, North ,89.99,02/20/2026
+TXN-1183,  charlie green ,north,89.99,
+TXN-1184, john doe ,WEST,150.5,02/20/2026
+TXN-1185,bob brown,WEST,1200.0,2026-04-01
+TXN-1186,,WEST,450.75,02/20/2026
+TXN-1187, john doe ,north,450.75,2026/03/10
+TXN-1188,Alice Johnson,WEST,-50.0,2026/03/10
+TXN-1189,  charlie green ,,450.75,2026/03/10
+TXN-1190,Alice Johnson,north,89.99,2026/03/10
+TXN-1191, john doe ,WEST,,
+TXN-1192,  charlie green ,,1200.0,2026-04-01
+TXN-1193,,East,450.75,02/20/2026
+TXN-1194, john doe ,WEST,-50.0,02/20/2026
+TXN-1195,Alice Johnson,north,89.99,2026/03/10
+TXN-1196,JANE SMITH,south,,2026/03/10
+TXN-1197,bob brown,WEST,200.0,2026-01-15
+TXN-1198,Alice Johnson,south,200.0,2026-04-01
+TXN-1199,  charlie green ,,,
+TXN-1200, john doe ,East,89.99,02/20/2026
+TXN-1201,bob brown, North ,-50.0,2026-01-15
+TXN-1202, john doe ,East,,2026-01-15
+TXN-1203,  charlie green ,WEST,1200.0,02/20/2026
+TXN-1204, john doe ,south,1200.0,
+TXN-1205,JANE SMITH,south,200.0,2026-01-15
+TXN-1206,bob brown,north,450.75,2026-01-15
+TXN-1207,bob brown,south,-50.0,2026-04-01
+TXN-1208,  charlie green ,north,200.0,
+TXN-1209,JANE SMITH,,450.75,2026-01-15
+TXN-1210,Alice Johnson, North ,450.75,
+TXN-1211, john doe ,WEST,1200.0,02/20/2026
+TXN-1212,,north,89.99,2026/03/10
+TXN-1213, john doe , North ,150.5,2026-01-15
+TXN-1214, john doe ,south,89.99,2026-04-01
+TXN-1215,Alice Johnson,south,150.5,02/20/2026
+TXN-1216, john doe , North ,,
+TXN-1217,JANE SMITH,south,1200.0,02/20/2026
+TXN-1218,JANE SMITH,,450.75,2026-01-15
+TXN-1219,bob brown,,-50.0,
+TXN-1220,  charlie green , North ,150.5,2026/03/10
+TXN-1221,,north,89.99,02/20/2026
+TXN-1222, john doe ,north,450.75,2026-01-15
+TXN-1223, john doe , North ,150.5,2026-04-01
+TXN-1224,Alice Johnson,north,150.5,
+TXN-1225,  charlie green ,north,150.5,02/20/2026
+TXN-1226,JANE SMITH,,-50.0,02/20/2026
+TXN-1227,,north,1200.0,2026/03/10
+TXN-1228,bob brown,East,-50.0,2026/03/10
+TXN-1229,JANE SMITH,WEST,200.0,2026-04-01
+TXN-1230,  charlie green ,south,450.75,2026-04-01
+TXN-1231,bob brown,East,1200.0,2026-01-15
+TXN-1232,Alice Johnson,north,1200.0,2026-01-15
+TXN-1233,Alice Johnson,,1200.0,2026-04-01
+TXN-1234, john doe , North ,89.99,2026-04-01
+TXN-1235,  charlie green ,north,1200.0,
+TXN-1236,,,-50.0,2026/03/10
+TXN-1237,bob brown,WEST,1200.0,2026-01-15
+TXN-1238,JANE SMITH,north,,2026/03/10
+TXN-1239,  charlie green , North ,450.75,2026/03/10
+TXN-1240,  charlie green ,,1200.0,2026-04-01
+TXN-1241,Alice Johnson,,450.75,
+TXN-1242, john doe ,,,02/20/2026
+TXN-1243, john doe ,WEST,,
+TXN-1244,bob brown,north,450.75,
+TXN-1245,Alice Johnson,WEST,150.5,2026/03/10
+TXN-1246,  charlie green ,south,200.0,
+TXN-1247,,south,89.99,2026-01-15
+TXN-1248,Alice Johnson,north,150.5,2026/03/10
+TXN-1249,bob brown,WEST,150.5,2026-01-15
+TXN-1000,bob brown,WEST,150.5,2026-01-15
+TXN-1001,,East,-50.0,2026-04-01
+TXN-1002,Alice Johnson,WEST,-50.0,2026/03/10
+TXN-1003,,East,1200.0,2026-01-15
+TXN-1004,,south,89.99,2026/03/10
+TXN-1005,JANE SMITH,East,200.0,
+TXN-1006,Alice Johnson,East,200.0,02/20/2026
+TXN-1007,Alice Johnson,WEST,-50.0,
+TXN-1008,Alice Johnson,WEST,1200.0,
+TXN-1009,, North ,450.75,2026-04-01
+TXN-1010,bob brown, North ,200.0,02/20/2026
+TXN-1011,Alice Johnson,south,450.75,
+TXN-1012,  charlie green , North ,89.99,
+TXN-1013,,East,200.0,02/20/2026
+TXN-1014,JANE SMITH,WEST,200.0,02/20/2026
+TXN-1015,bob brown, North ,,
+TXN-1016,  charlie green , North ,200.0,02/20/2026
+TXN-1017,  charlie green ,south,150.5,
+TXN-1018,JANE SMITH,,1200.0,
+TXN-1019,bob brown,south,1200.0,2026-04-01
+TXN-1020,,East,450.75,2026-01-15
+TXN-1021, john doe ,WEST,89.99,
+TXN-1022,bob brown,south,200.0,2026/03/10
+TXN-1023,JANE SMITH, North ,150.5,2026-01-15
+TXN-1024,  charlie green ,WEST,450.75,2026-01-15
